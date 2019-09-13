@@ -1,6 +1,6 @@
 # External-Tera-Sort
 
-The goal of this project is to gain insight into the working of data intensive applications with resource constraints. In specific working with large dataset in memory limitations
+The goal of this project is to gain insight into the working of data intensive applications with resource constraints. In specific working with large dataset having memory limitations.
 
 **Utilizing**
 * Amazon Web Services, specifically the EC2 cloud (http://aws.amazon.com/ec2/)
